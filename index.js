@@ -10,4 +10,6 @@ function logShout(string) {
 function logWhisper(string) {
   console.log('hello')
 }
-if 
+var uppercase = "YES INDEED!"
+var lowercase = 'I can hear you!
+var mixedCase = 'Hi there!'
