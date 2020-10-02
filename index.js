@@ -11,5 +11,5 @@ function logWhisper(string) {
   console.log('hello')
 }
 var uppercase = "YES INDEED!"
-var lowercase = 'I can hear you!
+var lowercase = I can\'t hear you!
 var mixedCase = 'Hi there!'
