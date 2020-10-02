@@ -7,6 +7,3 @@ function whisper(string) {
 function shout(string) {
   return console.log ()
 }
-function whisper(string) {
-  return console.log ()
-}
