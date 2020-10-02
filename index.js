@@ -14,5 +14,6 @@ var uppercase = "YES INDEED!"
 var lowercase = "I can\'t hear you!"
 var mixedCase = "I love you, too."
 
-function sayHiToGrandma(string)
-if 
+function sayHiToGrandma(string) {
+  
+}
