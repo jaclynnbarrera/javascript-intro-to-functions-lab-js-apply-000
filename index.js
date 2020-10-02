@@ -10,3 +10,6 @@ function shout(string) {
 function shout(string) {
   return string.toUpperCase( )
 }
+function shout(string) {
+  return console.log ()
+}
